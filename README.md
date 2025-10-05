@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Math Problem Generator - Developer Assessment Starter Kit
 
 ## Overview
@@ -158,3 +159,6 @@ If you have time, consider adding:
 ---
 
 Good luck with your assessment! 🎯
+=======
+# ottodot
+>>>>>>> 6260672b42715f69727449301cd56f3ea67b67ac
